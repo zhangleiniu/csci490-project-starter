@@ -1,0 +1,9 @@
+# Level 0
+numpy
+pandas
+scikit-learn
+matplotlib
+# Levels 1-3 (already installed on Colab)
+torch
+transformers
+# Task C with a GNN: pip install torch_geometric
