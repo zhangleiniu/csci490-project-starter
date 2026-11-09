@@ -62,6 +62,19 @@ and per split.>
 | 11/23 – 11/29 | <...> |
 | 11/30 – 12/3 | <...> (presentation: Level 2) |
 
+## 7. Progress report (Level 1)
+
+<!-- Fill in for the progress report. See docs/project_part2_progress_report.pdf. -->
+
+**What I built.** <the model: input, layers, number of parameters, the settings you chose on validation and the values you tried>
+
+**How it compares.** <against Level 0 and against the number you expected; look past the average (confusion matrix,
+per-class recall, or which queries it gets right); include your figure from `figures/`>
+
+**What works, what does not.** <what you tried and what happened, including what did not help>
+
+**What I will change.** <your Level 2 model, and your Level 3 question, revised if Level 1 taught you something>
+
 ## Results
 
 <Fill in as you go. One row per model, numbers from `results/`.>
